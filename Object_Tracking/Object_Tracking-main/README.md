@@ -2,9 +2,9 @@
 
 # Project Goals:
 The goals of this project are to:
-•	Develop a real-time object tracking system using deep learning.
-•	Evaluate the performance of the system on a variety of public datasets and real-world video streams.
-•	Make the system open source and available to the community.
+1. Develop a real-time object tracking system using deep learning.
+2. Evaluate the performance of the system on a variety of public datasets and real-world video streams.
+3. Make the system open source and available to the community.
 
 
 # Introduction:
@@ -14,10 +14,10 @@ This project description provides an overview of an object tracking project, out
 
 # Methodology:
 The proposed system will be based on a deep learning model that has been trained to detect and track objects of interest. The model will be implemented in Python and will use the TensorFlow library. The system will work as follows:
-•	The input video stream will be pre-processed to resize and normalize the frames.
-•	The pre-processed frames will be passed to the deep learning model to detect and track objects of interest.
-•	The bounding boxes of the detected objects will be tracked across frames using a tracking algorithm.
-•	The tracked bounding boxes will be drawn on the output video stream.
+1. The input video stream will be pre-processed to resize and normalize the frames.
+2. The pre-processed frames will be passed to the deep learning model to detect and track objects of interest.
+3. The bounding boxes of the detected objects will be tracked across frames using a tracking algorithm.
+4. The tracked bounding boxes will be drawn on the output video stream.
 
 # Key Components:
 1. **Data Acquisition**: The project typically begins with collecting data from cameras, sensors, or other sources.
